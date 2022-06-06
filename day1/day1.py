@@ -1,6 +1,7 @@
 f=open("day1.txt")
 
 line=f.readline().rstrip()
+f.close()
 
 count=0
 count2=0
